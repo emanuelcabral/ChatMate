@@ -17,20 +17,21 @@ Está diseñado para ser **fácil de usar**, con **memoria persistente** y una i
 
 ## 🛠 Tecnologías utilizadas
 
-| Componente | Tecnología / Librería |
-|------------|---------------------|
-| Lenguaje | Python 3.10+ |
-| LLM | Hugging Face Transformers (gratuito) |
-| Workflows | LangChain, LangGraph |
-| Interfaz web | Streamlit |
-| Memoria | JSON (`data/memory.json`) |
-| Persistencia | Local |
+| Componente       | Tecnología / Librería                         |
+|-----------------|-----------------------------------------------|
+| Lenguaje         | Python 3.10+                                 |
+| LLM              | Hugging Face Transformers (gratuito)        |
+| Workflows        | LangChain, LangGraph                         |
+| Interfaz web     | Streamlit                                    |
+| Memoria          | JSON (`data/memory.json`)                    |
+| Persistencia     | Local                                        |
 
 ---
 
 ## 🚀 Instalación y uso
 
 ### 1️⃣ Clonar el proyecto
+
 ```bash
-git clone <TU_REPO>
+git clone https://github.com/emanuelcabral/ChatMate.git
 cd ChatMate
